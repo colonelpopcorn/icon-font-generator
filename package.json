@@ -1,11 +1,11 @@
 {
-  "name": "icon-font-generator",
+  "name": "@colonelpopcorn/icon-font-generator",
   "version": "1.1.1",
-  "description": "Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files",
+  "description": "Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files; Forking for CI build",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Workshape/icon-font-generator.git"
+    "url": "https://github.com/colonelpopcorn/icon-font-generator.git"
   },
   "bin": {
     "icon-font-generator": "bin/icon-font-generator"
